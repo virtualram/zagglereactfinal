@@ -34,7 +34,7 @@ class App extends React.Component {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload,Github change   git change 2  .
+          Edit <code>src/App.js</code> and save to reload,Github change   git change 3  .
           Welcome to React JS 1   mr {this.props.name}
           Frequency {this.state.Frequency}
           Name state{this.state.Name}
